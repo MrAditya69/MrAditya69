@@ -5,6 +5,6 @@
   <p>info@yourphantom.co.in</p>
   
   
-<p align="center"><a href="https://yourphantom.co.in">yourphantom.co.in</aYOURPHANTOM.CO.IN</p>****
+<p <a href="https://yourphantom.co.in">yourphantom.co.in</aYOURPHANTOM.CO.IN</p>
 
 ---
