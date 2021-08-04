@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on https://yourphantom.co.in
 - 🌱 I’m currently learning python
-- 📫 How to reach me: [Email](mailto:support@ocean.cx), [Discord](https://discord.com/users/393936136826912768)
+- 📫 How to reach me: [Email](mailto:support@ocean.cx), [Discord](https://discord.com/users/821417000470839367)
 <!--- 💬 Ask me about ..-->
 <!--- ⚡ Fun fact: ..-->
 <!-- - 😄 Pronouns: ..-->
