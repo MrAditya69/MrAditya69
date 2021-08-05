@@ -1,5 +1,5 @@
 
-<h1>hi im phantom 👋</h1>
+<h1>HI IM PHANTOM 👋</h1>
 
 - 🔭 I’m currently working on https://yourphantom.co.in
 - 🌱 I’m currently learning python
