@@ -2,7 +2,7 @@
 <h1>HI IM PHANTOM 👋</h1>
 
 - 🔭 I’m currently working on [Simpx Discord Bot](https://discord.com/api/oauth2/authorize?client_id=872740033579323392&permissions=8&redirect_uri=https%3A%2F%2Fwww.simpx.xyz%2Fsuccess%2F&response_type=code&scope=connections%20bot)
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning nothing
 - 📫 How to reach me: [Email](mailto:support@ocean.cx), [Discord](https://discord.com/users/821417000470839367)
 <!--- 💬 Ask me about ..-->
 <!--- ⚡ Fun fact: ..-->
