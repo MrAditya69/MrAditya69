@@ -1,7 +1,7 @@
 
 <h1>HI IM PHANTOM 👋</h1>
 
-- 🔭 I’m currently working on https://yourphantom.co.in
+- 🔭 I’m currently working on Simpx Discord Bot
 - 🌱 I’m currently learning python
 - 📫 How to reach me: [Email](mailto:support@ocean.cx), [Discord](https://discord.com/users/821417000470839367)
 <!--- 💬 Ask me about ..-->
