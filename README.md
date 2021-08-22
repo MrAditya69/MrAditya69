@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning nothing
 - 📫 How to reach me: [Email](mailto:hello@simpx.xyz), [Discord](https://discord.com/users/821417000470839367)
 - ⚡ My Websites: [Simpx](https://www.simpx.xyz/), [PHANTOM](https://www.yourphantom.co.in/)
-- 
 <!--- 💬 Ask me about ..-->
 <!-- - 😄 Pronouns: ..-->
 ![GitHub](https://img.shields.io/github/followers/PHANTOM0P?color=1c1c1c&label=follow&logo=github&style=for-the-badge)
