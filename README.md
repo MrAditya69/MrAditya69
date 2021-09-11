@@ -1,7 +1,7 @@
 
 <h1>HI IM PHANTOM 👋</h1>
 
-![GitHub](img/standard.gif)
+![GitHub](standard.gif)
 - 🔭 I’m currently working on [Something New](https://www.simpx.xyz)
 - 🌱 I’m currently learning nothing
 - 📫 How to reach me: [Email](mailto:hello@yourphantom.co.in), [Discord](https://discord.com/users/821417000470839367)
