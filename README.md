@@ -8,13 +8,25 @@
 - ⚡ My Websites: [Simpx](https://www.simpx.xyz/), [PHANTOM](https://www.yourphantom.co.in/)
 <!--- 💬 Ask me about ..-->
 <!-- - 😄 Pronouns: ..-->
-![GitHub](https://img.shields.io/github/followers/PHANTOM0P?color=1c1c1c&label=follow&logo=github&style=for-the-badge)
-<!--[![Website](https://img.shields.io/badge/Portfolio-Visit-1c1c1c?style=for-the-badge)](https://me.nighthub.xyz)-->
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=PHANTOM0P&show_icons=true&theme=dark&icon_color=eee">     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHANTOM0P&theme=dark"></p>
+<p align="center">
+  <a href="https://twitter.com/Mr_Phantom69" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/mr_phantom69" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+</p>
 
-**Languages I know**
-- Some Javascript <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-- HTML <img height="15" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
-- CSS <img height="15" src="https://cdn.345tool.com/public/logos/css-formatter-logo.png">
-- Python <img height="25" src="https://pluspng.com/img-png/python-logo-png--200.png">
+<details>
+<summary>Click For More</summary>
+  
+  <p align="center">
+    <img alt = "Github Follows" src="https://img.shields.io/github/followers/PHANTOM0P?color=1c1c1c&label=follow&logo=github&style=for-the-badge"></p>
+    
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PHANTOM0P&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHANTOM0P&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details>
