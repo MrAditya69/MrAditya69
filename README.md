@@ -1,11 +1,12 @@
+<div align="center">
+<h1>HI IM PHANTOM 👋</h1></div>
+<div align="center">
+  <img src="standard.gif"></div>
 
-<h1>HI IM PHANTOM 👋</h1>
-
-![GitHub](standard.gif)
-- 🔭 I’m currently working on [Something New](https://www.simpx.xyz)
+<!--I’m currently working on [Something New](https://www.simpx.xyz)
 - 🌱 I’m currently learning nothing
 - 📫 How to reach me: [Email](mailto:hello@yourphantom.co.in), [Discord](https://discord.com/users/821417000470839367)
-- ⚡ My Websites: [Simpx](https://www.simpx.xyz/), [PHANTOM](https://www.yourphantom.co.in/)
+- ⚡ My Websites: [Simpx](https://www.simpx.xyz/), [PHANTOM](https://www.yourphantom.co.in/)  -->
 <!--- 💬 Ask me about ..-->
 <!-- - 😄 Pronouns: ..-->
 
@@ -15,6 +16,12 @@
   </a>
   <a href="https://instagram.com/mr_phantom69" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+ <a href="https://www.yourphantom.co.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Portfolio-informational?style=flat-square&color=black&logo=vercel&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
