@@ -21,7 +21,7 @@
 
 <p align="center">
  <a href="https://www.yourphantom.co.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Portfolio-informational?style=flat-square&color=black&logo=vercel&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Personal-Portfolio-informational?style=flat-square&color=black&logo=vercel&logoColor=white" alt="Personal Portfolio"/>
   </a>
 </p>
 
