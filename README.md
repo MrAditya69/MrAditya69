@@ -23,7 +23,13 @@
  <a href="https://www.yourphantom.co.in/" target="_blank">
     <img src="https://img.shields.io/badge/Personal-Portfolio-informational?style=flat-square&color=black&logo=vercel&logoColor=white" alt="Personal Portfolio"/>
   </a>
+  </ br>
+  </ br>
+   <a href="mailto:hello@yourphantom.co.in" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Me-informational?style=flat-square&color=black&logo=vercel&logoColor=white" alt="Personal Portfolio"/>
+  </a>
 </p>
+
 
 <details>
 <summary>Click For More</summary>
