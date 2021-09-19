@@ -2,13 +2,14 @@
 <h1>HI IM PHANTOM 👋</h1></div>
 <div align="center">
   <img src="standard.gif"></div>
-
+<!-- OLD STUFFS -->
 <!--I’m currently working on [Something New](https://www.simpx.xyz)
 - 🌱 I’m currently learning nothing
 - 📫 How to reach me: [Email](mailto:hello@yourphantom.co.in), [Discord](https://discord.com/users/821417000470839367)
 - ⚡ My Websites: [Simpx](https://www.simpx.xyz/), [PHANTOM](https://www.yourphantom.co.in/)  -->
 <!--- 💬 Ask me about ..-->
 <!-- - 😄 Pronouns: ..-->
+<!-- OLD STUFFS -->
 
 <p align="center">
   <a href="https://twitter.com/Mr_Phantom69" target="_blank">
