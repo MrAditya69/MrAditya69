@@ -1,5 +1,5 @@
 <div align="center">
-<h1>HI IM PHANTOM 👋</h1></div>
+<h1>HI IM PHANTOM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1></div>
 <div align="center">
   <img src="standard.gif"></div>
 <!-- OLD STUFFS -->
