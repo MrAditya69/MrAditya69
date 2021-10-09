@@ -1,5 +1,6 @@
 <div align="center">
-<h1>HI IM PHANTOM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>HI IM PHANTOM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <div><a herf="https://twitter.com/Mr_Phantom69"><img height="30" src="assets/twitter.png"></a> <a herf="https://www.instagram.com/mr_phantom69/"><img height="30" src="assets/instagram.png "></a> <!--<img  height="30" src="assets/discord.png">--></div></h1>
   
 **LANGUAGES AND TOOLS:**  
 
@@ -8,9 +9,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="assets/figma.png"></code>
+<code><img height="20" src="assets/wenflow.png"></code>
+<code><img height="20" src="assets/replit.png "></code>
+<code><img height="20" src="assets/code.png"></code>
 
 <div align="center">
-  <img src="standard.gif"></div>
+  <!-- <img src="standard.gif"></div> -->
+  <img height="350" src="assets/code.gif"></div>
 <!-- OLD STUFFS -->
 
 <!--I’m currently working on [Something New](https://www.simpx.xyz)
