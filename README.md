@@ -1,6 +1,6 @@
 <div align="center">
 <h1>HI IM PHANTOM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  <div><a herf="https://twitter.com/Mr_Phantom69"><img height="30" src="https://raw.githubusercontent.com/PHANTOM0P/PHANTOM0P/main/assets/twitter.png" /></a> <a herf="https://www.instagram.com/mr_phantom69/"><img height="30" src="https://raw.githubusercontent.com/PHANTOM0P/PHANTOM0P/main/assets/instagram.png" /></a> <!--<img  height="30" src="assets/discord.png">--></div></h1>
+  </h1>
   
 **LANGUAGES AND TOOLS:**  
 
