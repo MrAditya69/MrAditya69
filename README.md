@@ -48,9 +48,9 @@
   </a>
 </p>
 
-
+</div>
 <details>
-<summary>Click For More</summary>
+<summary>My Github Stats</summary>
   
   <p align="center">
     <img alt = "Github Follows" src="https://img.shields.io/github/followers/PHANTOM0P?color=1c1c1c&label=follow&logo=github&style=for-the-badge"></p>
