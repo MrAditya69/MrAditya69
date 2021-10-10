@@ -53,10 +53,13 @@
 </div>
 <details>
 <summary>My Github Stats</summary>
-  
   <p align="center">
-    <img alt = "Github Follows" src="https://img.shields.io/github/followers/PHANTOM0P?color=1c1c1c&label=follow&logo=github&style=for-the-badge"></p>
     
+  <a href="https://github.com/PHANTOM0P?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/PHANTOM0P"/></a>
+  <a href="https://github.com/PHANTOM0P?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/PHANTOM0P?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PHANTOM0P&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
