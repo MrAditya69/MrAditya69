@@ -65,4 +65,5 @@
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHANTOM0P&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="PHANTOM's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PHANTOM0P&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
