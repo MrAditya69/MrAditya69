@@ -34,9 +34,6 @@
   <a href="https://instagram.com/mr_phantom69" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-  <a href="https://replit.com/@PHANTOM0P1" target="_blank">
-    <img src="https://img.shields.io/badge/replit-%23E4405F.svg?&style=for-the-badge&logo=replit&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
 </p>
 
 <p align="center">
