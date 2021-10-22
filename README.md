@@ -27,10 +27,10 @@
 <!-- OLD STUFFS -->
 
 <p align="center">
-  <a href="https://twitter.com/Mr_Phantom69" target="_blank">
+  <a href="https://twitter.com/MrPhantom69" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/mr_phantom69" target="_blank">
+  <a href="https://instagram.com/itsphantom69" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
 </p>
