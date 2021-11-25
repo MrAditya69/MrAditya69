@@ -3,7 +3,8 @@
  </div>
 <div> Hey, I'm Phantom I'm <strong>A Young Front-End</div>
   <div> Web Developer And Designer</strong> I Was Born</div>
-<div>In 26 April </div>
+<div>I'm From India Living In Nagpur Working </div>
+<div>On My Portfolio</div>
 
 <div align="center"><h2>LANGUAGES AND TOOLS</h2></div>  
 <table width="100">
@@ -25,6 +26,9 @@
     </td>
    <td align='center' width="190">
         <img src="https://raw.githubusercontent.com/PHANTOM0P/PHANTOM0P/5c086a0a539e14830e75803bfca843df645e8313/assets/html.svg">
+    </td>
+ <td align='center' width="190">
+        <img src="https://github.com/PHANTOM0P/PHANTOM0P/blob/main/assets/favicon.png?raw=true">
     </td>
 </tr>
 <!--<tr>
@@ -77,3 +81,5 @@
     </td>
 </tr>-->
 </table>
+
+
