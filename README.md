@@ -1,68 +1,79 @@
 <div align="center">
-<h1>HI IM PHANTOM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>HEY IM PHANTOM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+ </div>
+<div> Hey, I'm Phantom I'm <strong>A Young Front-End</div>
+  <div> Web Developer And Designer</strong> I Was Born</div>
+<div>In 26 April </div>
+
+<div align="center"><h2>LANGUAGES AND TOOLS</h2></div>  
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/PHANTOM0P/PHANTOM0P/4d010b945018a617c529b74888e3c9381cac6e2f/assets/ts.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="assets/code.png" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/PHANTOM0P/PHANTOM0P/5c086a0a539e14830e75803bfca843df645e8313/assets/css.svg">
+    </td>
+   <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/PHANTOM0P/PHANTOM0P/5c086a0a539e14830e75803bfca843df645e8313/assets/html.svg">
+    </td>
+</tr>
+<!--<tr>
   
-**LANGUAGES AND TOOLS:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="assets/figma.png"></code>
-<code><img height="20" src="assets/wenflow.png"></code>
-<code><img height="20" src="assets/code.png"></code>
-
-<div align="center">
-  <!-- <img src="standard.gif"></div> -->
-  <img height="350" src="assets/code.gif"></div>
-<!-- OLD STUFFS -->
-
-<!--I’m currently working on [Something New](https://www.simpx.xyz)
-- 🌱 I’m currently learning nothing
-- 📫 How to reach me: [Email](mailto:hello@yourphantom.co.in), [Discord](https://discord.com/users/821417000470839367)
-- ⚡ My Websites: [Simpx](https://www.simpx.xyz/), [PHANTOM](https://www.yourphantom.co.in/)  -->
-<!--- 💬 Ask me about ..-->
-<!-- - 😄 Pronouns: ..-->
-
-<!-- OLD STUFFS -->
-
-<p align="center">
-  <a href="https://twitter.com/MrPhantom69" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/itsphantom69" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
-</p>
-
-<p align="center">
- <a href="https://yourphantom.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/Personal-Portfolio-informational?style=flat-square&color=black&logo=vercel&logoColor=white" alt="Personal Portfolio"/>
-  </a>
-  </ br>
-  </ br>
-   <a href="mailto:hello@yourphantom.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Me-informational?style=flat-square&color=black&logo=vercel&logoColor=white" alt="Personal Portfolio"/>
-  </a>
-</p>
-
-</div>
-<details>
-<summary>My Github Stats</summary>
-  <p align="center">
-    
-  <a href="https://github.com/PHANTOM0P?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/PHANTOM0P"/></a>
-  <a href="https://github.com/PHANTOM0P?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/PHANTOM0P?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PHANTOM0P&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHANTOM0P&hide=html,&hide_border=true&title_color=5391FE&text_color=555"/>
-  <br />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PHANTOM0P&hide_border=true" />
-  <br />
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="PHANTOM's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PHANTOM0P&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</p>
-</details>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+    </td>
+</tr>
+ <tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg">
+    </td>
+</tr>-->
+</table>
