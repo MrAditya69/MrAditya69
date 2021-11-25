@@ -7,7 +7,7 @@
 <div>On My Portfolio</div>
 
 ## My Social Account
-[Instagram](https://www.instagram.com/mr.adityashah), [Twitter](https://twitter.com/MrAditya69)
+[Instagram](https://www.instagram.com/im.adityashah/), [Twitter](https://twitter.com/MrAditya69)
 <table>
 <tr>
     <td align='center' width="190">
