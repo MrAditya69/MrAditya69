@@ -1,13 +1,14 @@
 <div align="center">
 <h1>HEY IM PHANTOM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
  </div>
-<div> Hey, I'm Phantom I'm <strong>A Young Front-End</div>
+  <div> Hey, I'm Phantom I'm <strong>A Young Front-End</div>
   <div> Web Developer And Designer</strong> I Was Born</div>
 <div>I'm From India Living In Nagpur Working </div>
 <div>On My Portfolio</div>
 
-<div align="center"><h2>LANGUAGES AND TOOLS</h2></div>  
-<table width="100">
+## My Social Account
+[Instagram](https://www.instagram.com/mr.adityashah), [Twitter](https://twitter.com/MrAditya69)
+<table>
 <tr>
     <td align='center' width="190">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60">
