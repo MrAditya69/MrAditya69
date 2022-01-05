@@ -30,6 +30,9 @@
  <td align='center' width="190">
         <img src="https://github.com/PHANTOM0P/PHANTOM0P/blob/main/assets/favicon.png?raw=true">
     </td>
+ <td align='center' width="190">
+        <img src="https://github.com/PHANTOM0P/PHANTOM0P/blob/main/assets/logo-180x180.png?raw=true">
+    </td>
 </tr>
 <!--<tr>
   
