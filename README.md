@@ -3,8 +3,7 @@
  </div>
   <div> Hey, I'm Phantom I'm <strong>A Young Front-End</div>
   <div> Web Developer And Designer</strong> I Was Born</div>
-<div>In India Living In Nagpur Working </div>
-<div>On My Portfolio</div>
+<div>In India Living In Nagpur.</div>
 
 ## My Social Account
 [Instagram](https://www.instagram.com/im.adityashah/), [Twitter](https://twitter.com/MrAditya69)
