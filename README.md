@@ -3,7 +3,7 @@
  </div>
   <div> Hey, I'm Phantom I'm <strong>A Young Front-End</div>
   <div> Web Developer And Designer</strong> I Was Born</div>
-<div>I'm From India Living In Nagpur Working </div>
+<div>In India Living In Nagpur Working </div>
 <div>On My Portfolio</div>
 
 ## My Social Account
