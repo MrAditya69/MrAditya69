@@ -6,7 +6,7 @@
 <div>In India Living In Nagpur.</div>
 
 ## My Social Account
-[Instagram](https://www.instagram.com/mr.adityashah/), [Twitter](https://twitter.com/MrAditya69)
+[Instagram](https://www.instagram.com/mr.adityashah/), [Twitter](https://twitter.com/MrAditya69), [Discord](https://discord.com/users/852789685931474944)
 <table>
 <tr>
     <td align='center' width="190">
