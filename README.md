@@ -1,7 +1,7 @@
 <div align="center">
-<h1>HEY IM PHANTOM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>HEY IM ADITYA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
  </div>
-  <div> Hey, I'm Phantom I'm <strong>A Young Front-End</div>
+  <div> Hey, I'm Aditya Shah I'm <strong>A Young Front-End</div>
   <div> Web Developer And Designer</strong> I Was Born</div>
 <div>In India Living In Nagpur.</div>
 
