@@ -3,7 +3,6 @@
  </div>
   <div> Hey, I'm Aditya Shah I'm Crueently Learning <strong>Android Development</strong></div>
   <div> I'm Intreasted In Metaverse Hoping To Build My Own Metaverse Soon.</div>
-<div> I Was Born In India Living In Nagpur.</div>
 
 ## My Social Account
 [Instagram](https://www.instagram.com/mr.adityashah/), [Twitter](https://twitter.com/MrAditya69), [Discord](https://discord.com/users/852789685931474944)
