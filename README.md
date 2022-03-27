@@ -1,8 +1,7 @@
 <div align="center">
 <h1>HEY IM ADITYA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
  </div>
-  <div> Hey, I'm Aditya Shah I'm Currently Learning Android Development</strong></div>
-  <div> I'm Interested In Metaverse Hoping To Build My Own Metaverse Soon.</div>
+  <div> Hey, I'm Aditya Shah I'm Currently Learning JavaScript</strong></div>
 
 ## My Social Account
 [Instagram](https://www.instagram.com/mr.adityashah/), [Twitter](https://twitter.com/MrAditya0), [Discord](https://discord.com/users/852789685931474944)
