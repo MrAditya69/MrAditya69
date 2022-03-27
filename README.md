@@ -5,7 +5,7 @@
   <div> I'm Interested In Metaverse Hoping To Build My Own Metaverse Soon.</div>
 
 ## My Social Account
-[Instagram](https://www.instagram.com/mr.adityashah/), [Twitter](https://twitter.com/MrAditya69), [Discord](https://discord.com/users/852789685931474944)
+[Instagram](https://www.instagram.com/mr.adityashah/), [Twitter](https://twitter.com/MrAditya0), [Discord](https://discord.com/users/852789685931474944)
 <table>
 <tr>
     <td align='center' width="190">
